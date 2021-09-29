@@ -1,0 +1,36 @@
+C:\Users\Hiba\source\repos\ServiceCompte\ServiceCompte.DataAccess.EFCore\bin\Debug\netcoreapp3.1\ServiceCompte.DataAccess.EFCore.deps.json
+C:\Users\Hiba\source\repos\ServiceCompte\ServiceCompte.DataAccess.EFCore\bin\Debug\netcoreapp3.1\ServiceCompte.DataAccess.EFCore.dll
+C:\Users\Hiba\source\repos\ServiceCompte\ServiceCompte.DataAccess.EFCore\bin\Debug\netcoreapp3.1\ServiceCompte.DataAccess.EFCore.pdb
+C:\Users\Hiba\source\repos\ServiceCompte\ServiceCompte.DataAccess.EFCore\bin\Debug\netcoreapp3.1\ServiceCompte.Domain.dll
+C:\Users\Hiba\source\repos\ServiceCompte\ServiceCompte.DataAccess.EFCore\bin\Debug\netcoreapp3.1\ServiceCompte.Domain.pdb
+C:\Users\Hiba\source\repos\ServiceCompte\ServiceCompte.DataAccess.EFCore\obj\Debug\netcoreapp3.1\ServiceCompte.DataAccess.EFCore.csprojAssemblyReference.cache
+C:\Users\Hiba\source\repos\ServiceCompte\ServiceCompte.DataAccess.EFCore\obj\Debug\netcoreapp3.1\ServiceCompte.DataAccess.EFCore.AssemblyInfoInputs.cache
+C:\Users\Hiba\source\repos\ServiceCompte\ServiceCompte.DataAccess.EFCore\obj\Debug\netcoreapp3.1\ServiceCompte.DataAccess.EFCore.AssemblyInfo.cs
+C:\Users\Hiba\source\repos\ServiceCompte\ServiceCompte.DataAccess.EFCore\obj\Debug\netcoreapp3.1\ServiceCompte.DataAccess.EFCore.csproj.CoreCompileInputs.cache
+C:\Users\Hiba\source\repos\ServiceCompte\ServiceCompte.DataAccess.EFCore\obj\Debug\netcoreapp3.1\ServiceCompte.DataAccess.EFCore.csproj.CopyComplete
+C:\Users\Hiba\source\repos\ServiceCompte\ServiceCompte.DataAccess.EFCore\obj\Debug\netcoreapp3.1\ServiceCompte.DataAccess.EFCore.dll
+C:\Users\Hiba\source\repos\ServiceCompte\ServiceCompte.DataAccess.EFCore\obj\Debug\netcoreapp3.1\ServiceCompte.DataAccess.EFCore.pdb
+C:\Users\eyaka\source\repos\ServiceCompte\ServiceCompte.DataAccess.EFCore\bin\Debug\netcoreapp3.1\ServiceCompte.DataAccess.EFCore.deps.json
+C:\Users\eyaka\source\repos\ServiceCompte\ServiceCompte.DataAccess.EFCore\bin\Debug\netcoreapp3.1\ServiceCompte.DataAccess.EFCore.dll
+C:\Users\eyaka\source\repos\ServiceCompte\ServiceCompte.DataAccess.EFCore\bin\Debug\netcoreapp3.1\ServiceCompte.DataAccess.EFCore.pdb
+C:\Users\eyaka\source\repos\ServiceCompte\ServiceCompte.DataAccess.EFCore\bin\Debug\netcoreapp3.1\ServiceCompte.Domain.dll
+C:\Users\eyaka\source\repos\ServiceCompte\ServiceCompte.DataAccess.EFCore\bin\Debug\netcoreapp3.1\ServiceCompte.Domain.pdb
+C:\Users\eyaka\source\repos\ServiceCompte\ServiceCompte.DataAccess.EFCore\obj\Debug\netcoreapp3.1\ServiceCompte.DataAccess.EFCore.csprojAssemblyReference.cache
+C:\Users\eyaka\source\repos\ServiceCompte\ServiceCompte.DataAccess.EFCore\obj\Debug\netcoreapp3.1\ServiceCompte.DataAccess.EFCore.AssemblyInfoInputs.cache
+C:\Users\eyaka\source\repos\ServiceCompte\ServiceCompte.DataAccess.EFCore\obj\Debug\netcoreapp3.1\ServiceCompte.DataAccess.EFCore.AssemblyInfo.cs
+C:\Users\eyaka\source\repos\ServiceCompte\ServiceCompte.DataAccess.EFCore\obj\Debug\netcoreapp3.1\ServiceCompte.DataAccess.EFCore.csproj.CoreCompileInputs.cache
+C:\Users\eyaka\source\repos\ServiceCompte\ServiceCompte.DataAccess.EFCore\obj\Debug\netcoreapp3.1\ServiceCompte.DataAccess.EFCore.csproj.CopyComplete
+C:\Users\eyaka\source\repos\ServiceCompte\ServiceCompte.DataAccess.EFCore\obj\Debug\netcoreapp3.1\ServiceCompte.DataAccess.EFCore.dll
+C:\Users\eyaka\source\repos\ServiceCompte\ServiceCompte.DataAccess.EFCore\obj\Debug\netcoreapp3.1\ServiceCompte.DataAccess.EFCore.pdb
+C:\Users\21655\Desktop\New folder\Sys Com-20210701T145309Z-001\Sys Com\Back\Back\ServiceCompte\ServiceCompte.DataAccess.EFCore\bin\Debug\netcoreapp3.1\ServiceCompte.DataAccess.EFCore.deps.json
+C:\Users\21655\Desktop\New folder\Sys Com-20210701T145309Z-001\Sys Com\Back\Back\ServiceCompte\ServiceCompte.DataAccess.EFCore\bin\Debug\netcoreapp3.1\ServiceCompte.DataAccess.EFCore.dll
+C:\Users\21655\Desktop\New folder\Sys Com-20210701T145309Z-001\Sys Com\Back\Back\ServiceCompte\ServiceCompte.DataAccess.EFCore\bin\Debug\netcoreapp3.1\ServiceCompte.DataAccess.EFCore.pdb
+C:\Users\21655\Desktop\New folder\Sys Com-20210701T145309Z-001\Sys Com\Back\Back\ServiceCompte\ServiceCompte.DataAccess.EFCore\bin\Debug\netcoreapp3.1\ServiceCompte.Domain.dll
+C:\Users\21655\Desktop\New folder\Sys Com-20210701T145309Z-001\Sys Com\Back\Back\ServiceCompte\ServiceCompte.DataAccess.EFCore\bin\Debug\netcoreapp3.1\ServiceCompte.Domain.pdb
+C:\Users\21655\Desktop\New folder\Sys Com-20210701T145309Z-001\Sys Com\Back\Back\ServiceCompte\ServiceCompte.DataAccess.EFCore\obj\Debug\netcoreapp3.1\ServiceCompte.DataAccess.EFCore.csproj.AssemblyReference.cache
+C:\Users\21655\Desktop\New folder\Sys Com-20210701T145309Z-001\Sys Com\Back\Back\ServiceCompte\ServiceCompte.DataAccess.EFCore\obj\Debug\netcoreapp3.1\ServiceCompte.DataAccess.EFCore.AssemblyInfoInputs.cache
+C:\Users\21655\Desktop\New folder\Sys Com-20210701T145309Z-001\Sys Com\Back\Back\ServiceCompte\ServiceCompte.DataAccess.EFCore\obj\Debug\netcoreapp3.1\ServiceCompte.DataAccess.EFCore.AssemblyInfo.cs
+C:\Users\21655\Desktop\New folder\Sys Com-20210701T145309Z-001\Sys Com\Back\Back\ServiceCompte\ServiceCompte.DataAccess.EFCore\obj\Debug\netcoreapp3.1\ServiceCompte.DataAccess.EFCore.csproj.CoreCompileInputs.cache
+C:\Users\21655\Desktop\New folder\Sys Com-20210701T145309Z-001\Sys Com\Back\Back\ServiceCompte\ServiceCompte.DataAccess.EFCore\obj\Debug\netcoreapp3.1\ServiceCompte.DataAccess.EFCore.csproj.CopyComplete
+C:\Users\21655\Desktop\New folder\Sys Com-20210701T145309Z-001\Sys Com\Back\Back\ServiceCompte\ServiceCompte.DataAccess.EFCore\obj\Debug\netcoreapp3.1\ServiceCompte.DataAccess.EFCore.dll
+C:\Users\21655\Desktop\New folder\Sys Com-20210701T145309Z-001\Sys Com\Back\Back\ServiceCompte\ServiceCompte.DataAccess.EFCore\obj\Debug\netcoreapp3.1\ServiceCompte.DataAccess.EFCore.pdb

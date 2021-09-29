@@ -1,0 +1,12 @@
+C:\Users\Hiba\source\repos\ServiceCompte\ServiceCompte.Domain\bin\Debug\netcoreapp5.0\ServiceCompte.Domain.deps.json
+C:\Users\Hiba\source\repos\ServiceCompte\ServiceCompte.Domain\bin\Debug\netcoreapp5.0\ServiceCompte.Domain.dll
+C:\Users\Hiba\source\repos\ServiceCompte\ServiceCompte.Domain\bin\Debug\netcoreapp5.0\ref\ServiceCompte.Domain.dll
+C:\Users\Hiba\source\repos\ServiceCompte\ServiceCompte.Domain\bin\Debug\netcoreapp5.0\ServiceCompte.Domain.pdb
+C:\Users\Hiba\source\repos\ServiceCompte\ServiceCompte.Domain\obj\Debug\netcoreapp5.0\ServiceCompte.Domain.csprojAssemblyReference.cache
+C:\Users\Hiba\source\repos\ServiceCompte\ServiceCompte.Domain\obj\Debug\netcoreapp5.0\ServiceCompte.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hiba\source\repos\ServiceCompte\ServiceCompte.Domain\obj\Debug\netcoreapp5.0\ServiceCompte.Domain.AssemblyInfoInputs.cache
+C:\Users\Hiba\source\repos\ServiceCompte\ServiceCompte.Domain\obj\Debug\netcoreapp5.0\ServiceCompte.Domain.AssemblyInfo.cs
+C:\Users\Hiba\source\repos\ServiceCompte\ServiceCompte.Domain\obj\Debug\netcoreapp5.0\ServiceCompte.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Hiba\source\repos\ServiceCompte\ServiceCompte.Domain\obj\Debug\netcoreapp5.0\ServiceCompte.Domain.dll
+C:\Users\Hiba\source\repos\ServiceCompte\ServiceCompte.Domain\obj\Debug\netcoreapp5.0\ref\ServiceCompte.Domain.dll
+C:\Users\Hiba\source\repos\ServiceCompte\ServiceCompte.Domain\obj\Debug\netcoreapp5.0\ServiceCompte.Domain.pdb

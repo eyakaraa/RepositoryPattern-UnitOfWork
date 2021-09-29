@@ -1,0 +1,27 @@
+C:\Users\Hiba\source\repos\ServiceCompte\ServiceCompte.Domain\bin\Debug\netcoreapp3.1\ServiceCompte.Domain.deps.json
+C:\Users\Hiba\source\repos\ServiceCompte\ServiceCompte.Domain\bin\Debug\netcoreapp3.1\ServiceCompte.Domain.dll
+C:\Users\Hiba\source\repos\ServiceCompte\ServiceCompte.Domain\bin\Debug\netcoreapp3.1\ServiceCompte.Domain.pdb
+C:\Users\Hiba\source\repos\ServiceCompte\ServiceCompte.Domain\obj\Debug\netcoreapp3.1\ServiceCompte.Domain.csprojAssemblyReference.cache
+C:\Users\Hiba\source\repos\ServiceCompte\ServiceCompte.Domain\obj\Debug\netcoreapp3.1\ServiceCompte.Domain.AssemblyInfoInputs.cache
+C:\Users\Hiba\source\repos\ServiceCompte\ServiceCompte.Domain\obj\Debug\netcoreapp3.1\ServiceCompte.Domain.AssemblyInfo.cs
+C:\Users\Hiba\source\repos\ServiceCompte\ServiceCompte.Domain\obj\Debug\netcoreapp3.1\ServiceCompte.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Hiba\source\repos\ServiceCompte\ServiceCompte.Domain\obj\Debug\netcoreapp3.1\ServiceCompte.Domain.dll
+C:\Users\Hiba\source\repos\ServiceCompte\ServiceCompte.Domain\obj\Debug\netcoreapp3.1\ServiceCompte.Domain.pdb
+C:\Users\eyaka\source\repos\ServiceCompte\ServiceCompte.Domain\bin\Debug\netcoreapp3.1\ServiceCompte.Domain.deps.json
+C:\Users\eyaka\source\repos\ServiceCompte\ServiceCompte.Domain\bin\Debug\netcoreapp3.1\ServiceCompte.Domain.dll
+C:\Users\eyaka\source\repos\ServiceCompte\ServiceCompte.Domain\bin\Debug\netcoreapp3.1\ServiceCompte.Domain.pdb
+C:\Users\eyaka\source\repos\ServiceCompte\ServiceCompte.Domain\obj\Debug\netcoreapp3.1\ServiceCompte.Domain.csprojAssemblyReference.cache
+C:\Users\eyaka\source\repos\ServiceCompte\ServiceCompte.Domain\obj\Debug\netcoreapp3.1\ServiceCompte.Domain.AssemblyInfoInputs.cache
+C:\Users\eyaka\source\repos\ServiceCompte\ServiceCompte.Domain\obj\Debug\netcoreapp3.1\ServiceCompte.Domain.AssemblyInfo.cs
+C:\Users\eyaka\source\repos\ServiceCompte\ServiceCompte.Domain\obj\Debug\netcoreapp3.1\ServiceCompte.Domain.csproj.CoreCompileInputs.cache
+C:\Users\eyaka\source\repos\ServiceCompte\ServiceCompte.Domain\obj\Debug\netcoreapp3.1\ServiceCompte.Domain.dll
+C:\Users\eyaka\source\repos\ServiceCompte\ServiceCompte.Domain\obj\Debug\netcoreapp3.1\ServiceCompte.Domain.pdb
+C:\Users\21655\Desktop\New folder\Sys Com-20210701T145309Z-001\Sys Com\Back\Back\ServiceCompte\ServiceCompte.Domain\bin\Debug\netcoreapp3.1\ServiceCompte.Domain.deps.json
+C:\Users\21655\Desktop\New folder\Sys Com-20210701T145309Z-001\Sys Com\Back\Back\ServiceCompte\ServiceCompte.Domain\bin\Debug\netcoreapp3.1\ServiceCompte.Domain.dll
+C:\Users\21655\Desktop\New folder\Sys Com-20210701T145309Z-001\Sys Com\Back\Back\ServiceCompte\ServiceCompte.Domain\bin\Debug\netcoreapp3.1\ServiceCompte.Domain.pdb
+C:\Users\21655\Desktop\New folder\Sys Com-20210701T145309Z-001\Sys Com\Back\Back\ServiceCompte\ServiceCompte.Domain\obj\Debug\netcoreapp3.1\ServiceCompte.Domain.csproj.AssemblyReference.cache
+C:\Users\21655\Desktop\New folder\Sys Com-20210701T145309Z-001\Sys Com\Back\Back\ServiceCompte\ServiceCompte.Domain\obj\Debug\netcoreapp3.1\ServiceCompte.Domain.AssemblyInfoInputs.cache
+C:\Users\21655\Desktop\New folder\Sys Com-20210701T145309Z-001\Sys Com\Back\Back\ServiceCompte\ServiceCompte.Domain\obj\Debug\netcoreapp3.1\ServiceCompte.Domain.AssemblyInfo.cs
+C:\Users\21655\Desktop\New folder\Sys Com-20210701T145309Z-001\Sys Com\Back\Back\ServiceCompte\ServiceCompte.Domain\obj\Debug\netcoreapp3.1\ServiceCompte.Domain.csproj.CoreCompileInputs.cache
+C:\Users\21655\Desktop\New folder\Sys Com-20210701T145309Z-001\Sys Com\Back\Back\ServiceCompte\ServiceCompte.Domain\obj\Debug\netcoreapp3.1\ServiceCompte.Domain.dll
+C:\Users\21655\Desktop\New folder\Sys Com-20210701T145309Z-001\Sys Com\Back\Back\ServiceCompte\ServiceCompte.Domain\obj\Debug\netcoreapp3.1\ServiceCompte.Domain.pdb
